@@ -4,14 +4,14 @@ Aplicación Web Full-Stack que permite a los usuarios compartir distintos lugare
 Fue desarrollada utilizando
 
 * React
-* React Route
+* React Router
 * React Hooks
 * Javascript ES6
 * CSS
-* Firebase
+
 
 La aplicacion se encuentra en el siguiente link: 
-[MERN app](https://mern-app-302322.web.app/)
+[MERN app](https://mern-app-frontend-eight.vercel.app/)
 
 ## SinglePageAplication Pages
 
